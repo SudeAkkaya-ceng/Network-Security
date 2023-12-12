@@ -1,0 +1,6 @@
+site_name: My Network Docs (Sude AKKAYA)
+nav:
+  - Home: index.md 
+ 
+theme:
+  name: material
